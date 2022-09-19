@@ -1,0 +1,27 @@
+h1 {
+    color: darkgoldenrod;
+    background-color: darkblue;
+    font-size: 70px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+img:hover{
+    border-radius: 50%;
+}
+
+p {
+    font-size: 20px;
+    color: brown;
+}
+
+a{
+    color: lightseagreen;
+}
+
+a:hover {
+    color: orange;
+}
